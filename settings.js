@@ -52,7 +52,33 @@ global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
-global.packname = "ꪶᴄ͢ʜʀᷧɪᷟsᴛͥʏ ͢ꫂsᴇʀ⋆🜲" //ur sticker watermark packname
+global.packname = "ꪶᴄ͢ʜʀᷧɪᷟsᴛͥʏ ͢ꫂsᴇʀ⋆🜲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+" //ur sticker watermark packname
 global.author = "𝒉𝒆𝒚 𝒃𝒂𝒃𝒆🤤👅" //ur sticker watermark author
 global.aliveimg ="https://telegra.ph/file/c4ce9afb236972ffb2126.jpg"
 global.allmenuimg ="https://telegra.ph/file/c4ce9afb236972ffb2126.jpg"
