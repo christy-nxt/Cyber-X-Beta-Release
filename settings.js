@@ -36,8 +36,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
+global.vcardowner = ['917034685001'] //ur owner number
+global.ownername = "ꪶᴄ͢ʜʀᷧɪᷟsᴛͥʏ ͢ꫂsᴇʀ⋆🜲" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
@@ -53,7 +53,7 @@ global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
 global.packname = "ꪶᴄ͢ʜʀᷧɪᷟsᴛͥʏ ͢ꫂsᴇʀ⋆🜲" //ur sticker watermark packname
-global.author = "ꪶᴄ͢ʜʀᷧɪᷟsᴛͥʏ ͢ꫂsᴇʀ⋆🜲" //ur sticker watermark author
+global.author = "𝒉𝒆𝒚 𝒃𝒂𝒃𝒆🤤👅" //ur sticker watermark author
 global.aliveimg ="https://telegra.ph/file/c4ce9afb236972ffb2126.jpg"
 global.allmenuimg ="https://telegra.ph/file/c4ce9afb236972ffb2126.jpg"
 global.welcomeimg= "https://telegra.ph/file/c4ce9afb236972ffb2126.jpg"
